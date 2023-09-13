@@ -39,7 +39,6 @@ Each day an NFT.
 
 ### How to interact through PolygonScan
 1. Obtain Mumbai MATIC. [FAUCET](https://faucet.polygon.technology/).
-2. Create property. Use #2 createProperty. Inputs: id_ = sequential property number, name_ = anything. [WRITE CONTRACT](https://mumbai.polygonscan.com/address/0xF9D67468D44ae6a039B4Bd487e07F4317C8f5BC3#writeContract).
-3. Create rental days NFTs. Use #3 createRentalDay. Inputs: to = your wallet, tierId = id from step 2, startTime = start of rental, endTime = end of rental.
+2. Create property. Use #2 createProperty. Inputs: id_ = sequential property number, name_ = anything. [WRITE CONTRACT](https://mumbai.polygonscan.com/address/0x9B185cA290941d5731AdeDCE31bB8b9BEaC6d127#writeContract).
+3. Create rental days NFTs. Use #3 createRentalDay. Inputs: to = your wallet, tierId = id from step 2, startTime = start of rental, endTime = end of rental. [WRITE CONTRACT](https://mumbai.polygonscan.com/address/0x9B185cA290941d5731AdeDCE31bB8b9BEaC6d127#writeContract).
 4. List on marketplace.
-
